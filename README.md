@@ -1,9 +1,9 @@
 # Shiki
-White Noise Musical Instrument
+**White Noise Musical Instrument**
 
 Shiki is a customizable virtual instrument with two white noise oscillators. This NIME (New Instrument for Musical Expression) is capable of rhythmic and timbral gestures, blending composition and sound design across diverse solo, ensemble, and multimodal contexts, including noise, ambient, EDM, and other musical genres, and data sonification. 
 
-A version of shiki for Renga for White Noise, which involves the integration of evolutionary algorithms as an AI collaborators, will be released in the near future. Originally developed for this project (premiered in 2024), this present code for shiki1.0 is for "musicians generally", for use in other solo, ensemble and multimedia contexts. As a polsyemic Japanese word, "shiki" acknowledges the instrument’s origins in our renga project alongside its customizability for diverse artistic contexts. 
+A version of shiki for _Renga for White Noise_, which involves the integration of evolutionary algorithms as an AI collaborators, will be released soon. Originally developed for this project (premiered at CNMAT in 2024: https://www.austinotinghar.com/RengaforWhiteNoise.html), this present code for shiki1.0 is for "musicians generally", for use in other solo, ensemble and multimedia contexts. As a polsyemic Japanese word, "shiki" acknowledges the instrument’s origins in our evolving renga project alongside its customizability for and artistic applications across diverse contexts. 
 
 **MIDI-Mapping to the Dials and Buttons of an Interface**
 
