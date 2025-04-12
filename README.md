@@ -7,6 +7,6 @@ A version of shiki for _Renga for White Noise_, which involves the integration o
 
 **MIDI-Mapping to the Dials and Buttons of an Interface**
 
-As a virtual instrument, shiki can be MIDI-mapped to a variety of musical interfaces with dials and buttons (e.g. Ableton Push and Native Instruments Maschine). 
+As a virtual instrument, shiki can be MIDI-mapped to a variety of musical interfaces with dials and buttons (e.g. Ableton Push and Native Instruments Maschine). Rhythm: acceleration/deceleration, phasing, and note lengthening. Timbre: volume, four filter types (low pass, high pass, bandpass, and band-stop), filter sweeping and widening, reverb length and size, LFO, and attack. 
 
 Users are encouraged to customize parameter ranges and add additional  controls as needed for their projects. Users may explore as many or as few components (e.g. just one white noise oscillator, just one timbre or rhythm parameter) for their projects. For details on the current MIDI-mapping of the 11 Push dials and 13 buttons on this code provided, please refer to our paper in NIME 2025, due out in June 2025.
