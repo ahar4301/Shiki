@@ -1,5 +1,5 @@
 # Shiki
-**White Noise Musical Instrument**
+**White Noise Instrument**
 
 Shiki is a customizable virtual instrument with two white noise oscillators developed by Austin Oting Har and Kurt Mikolajczyk, beginning in summer 2024 and premiered  at the Center for New Music and Audio Technologies (CNMAT) in October 2024. This NIME (New Instrument for Musical Expression) is capable of rhythmic and timbral gestures, blending composition and sound design across diverse solo, ensemble, and multimodal contexts, including noise, ambient, EDM, and other musical genres, and data sonification. 
 
