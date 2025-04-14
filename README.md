@@ -7,7 +7,7 @@ Shiki requires a host environment (Max/MSP) and can be MIDI-mapped to interfaces
 
 **MIDI-Mapping to the Dials and Buttons of an Interface**
 
-As a virtual instrument, shiki can be MIDI-mapped to a variety of musical interfaces with dials and buttons (e.g. Ableton Push and Native Instruments Maschine). Rhythm: acceleration/deceleration, phasing, and note lengthening. Timbre: volume, four filter types (low pass, high pass, bandpass, and band-stop), filter sweeping and widening, reverb length and size, LFO, and attack. 
+This patch is currently MIDI-mapped to the Ableton Push (image provided in patch), and basic controls are provided in presentation mode for users to play it without a Push. As a virtual instrument, shiki can be MIDI-mapped to a variety of musical interfaces with dials and buttons (e.g. Ableton Push and Native Instruments Maschine). Rhythm: acceleration/deceleration, phasing, and note lengthening. Timbre: volume, four filter types (low pass, high pass, bandpass, and band-stop), filter sweeping and widening, reverb length and size, LFO, and attack. 
 
 Users are encouraged to customize parameter ranges and add additional  controls as needed—individual rhythm and timbre controls organized as subpatches in Max, with the main patch organized for MIDI-mapping. Users may explore as many or as few components (e.g. just one white noise oscillator, just one timbre or rhythm parameter) for their work. Further details on the current MIDI-mapping of the 11 Push dials and 13 buttons on this code provided will be available in our paper in NIME 2025, due out shortly after the conference proceedings in June 2025.
 
